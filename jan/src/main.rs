@@ -1,5 +1,11 @@
 fn  main(){
+   
+ let a = 32;
+ print!("{}",a);
  test(18)
+
+
+
 }
 
 
